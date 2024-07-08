@@ -4,6 +4,8 @@ This is a comprehensive list of machine learning resources. Resources cover the 
 ## Work In Progress
 This is a very new list of ML resources so the structure may change around while we figure out the best way to organize the resources. By all means [let me know](https://github.com/dgwyer/ml-resources/issues/new) what you think and how it can be improved!
 
+As you may have noticed most (or almost all!) resources focus on diffusion models. This is because where most of my focus has been these last few months. But I do want to transition to cover LLMs too. So if you have some good language based resources you'd like to share please [let me know](https://github.com/dgwyer/ml-resources/issues/new).
+
 ## Research Papers
 
 ### Websites
@@ -21,7 +23,7 @@ A collection of some of the seminal papers on machine learning.
 
 ## Youtube Channels
 
-Some noteworthy YouTube channels and playlists.
+Some noteworthy YouTube channels, some of which have sub-links to relevant ML playlists and individual videos. Note: If a sub-link ends with (V) then it is an individual video rather than a playlist.
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
@@ -42,6 +44,8 @@ Some noteworthy YouTube channels and playlists.
   - [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
   - [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
 - [MLT Artificial Intelligence](https://www.youtube.com/@MLTOKYO/featured)
+- [Outlier](https://www.youtube.com/@outliier/featured)
+  - [Diffusion Models | Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg) (V)
 - [Stanford Online](https://www.youtube.com/@stanfordonline/featured)
 - [StatQuest](https://www.youtube.com/@statquest)
 - [TWIML Community](https://www.youtube.com/@TWIMLCommunity/featured)
@@ -57,6 +61,8 @@ Some noteworthy YouTube channels and playlists.
   - [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
 ### Individual videos.
+
+- [Stable Diffusion Explained w/ Sai Kumar](https://www.youtube.com/watch?v=V3zBHGB0LWs)
 
 #### Transformers
 
@@ -78,6 +84,9 @@ Some noteworthy YouTube channels and playlists.
 - [Fast.ai](https://www.fast.ai/)
   - [Deep Learning from the Foundations](https://course19.fast.ai/index.html) (2019)
   - [Practical Deep Learning for Coders](https://course.fast.ai/) (2022)
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
+  - [Unit 1 walkthrough (with Johno)](https://www.youtube.com/watch?v=09o5cv6u76c)
+  - [Unit 2 walkthrough (with Johno)](https://www.youtube.com/watch?v=mY20iKOQ2zw)
 - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
@@ -93,12 +102,21 @@ Some noteworthy YouTube channels and playlists.
 A collection of blogs and posts that post about various ML topics.
 
 - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
+- [Jay Alammar](https://jalammar.github.io/)
+  - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Paperspace](https://blog.paperspace.com/)
 - [Radek Osmulski](https://radekosmulski.medium.com/)
   - [A practitioner's guide to PyTorch](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
+- [reddit Stable Diffusion](https://old.reddit.com/r/StableDiffusion/)
+  - [Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)
 - [Salman Naqvi](https://forbo7.github.io/forblog/)
+- [Sander Dieleman](https://sander.ai/posts/)
+  - [Perspectives on diffusion](https://sander.ai/2023/07/20/perspectives.html)
+  - [Diffusion models are autoencoders](https://sander.ai/2022/01/31/diffusion.html)
+- [Stable Diffusion Art](https://stable-diffusion-art.com)
+  - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
 
 ### Blog Posts
 
@@ -122,6 +140,9 @@ Stable Diffusion
 - Answer.ai
 - [PyTorch](https://pytorch.org/)
   - [Tutorials](https://pytorch.org/tutorials/)
+- [Hugging Face](https://huggingface.co/)
+  - [Diffusers tutorials](https://huggingface.co/docs/diffusers/en/index)
+  - [General documentation](https://huggingface.co/docs)
 - Claudette (Answer.ai)
 - Jupyter
 - Zotero
@@ -138,21 +159,12 @@ Stable Diffusion
 
 Machine learning on Twitter is very active! Here are some of the people you should be following.
 
+## Interviews
+
+- [Prof. Chris Bishop's NEW Deep Learning Textbook!](https://youtu.be/kuvFoXzTK3E)
+- [This is why Deep Learning is really weird (Prof. Simon Prince)](https://youtu.be/sJXn4Cl4oww)
+
 ## Unsorted
-
-How Gaussian noise is added to an image: https://www.youtube.com/watch?v=Qi9Eglax-tM
-
-https://jalammar.github.io/illustrated-stable-diffusion/
-https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
-https://www.youtube.com/watch?v=HoKDTa5jHvg
-https://stable-diffusion-art.com/samplers/
-
-Watch these two interviews from authors Bishop and Prince.
-
-https://www.youtube.com/watch?v=kuvFoXzTK3E
-https://www.youtube.com/watch?v=sJXn4Cl4oww
-
-https://sander.ai/posts/
 
 https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM
 
@@ -234,13 +246,5 @@ https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf
 http://neuralnetworksanddeeplearning.com/index.html recommended by Jeremy
 ML Ops resources: https://huyenchip.com/mlops/
 Agents course: https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
-
-Hugging face Diffusion models course:
-
-https://github.com/huggingface/diffusion-models-class
-https://www.youtube.com/watch?v=09o5cv6u76c
-https://www.youtube.com/watch?v=mY20iKOQ2zw
-
-https://huggingface.co/docs/diffusers/en/tutorials/basic_training
 
 Some useful insights to the forward diffusion probability equation for q: https://chatgpt.com/c/2a732409-6f97-450c-8996-5a05d64ef333
