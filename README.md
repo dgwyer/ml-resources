@@ -1,5 +1,5 @@
 # Machine Learning Resources
-This is a comprehensive list of machine learning resources. Resources cover the theory and implementation of LLM and image diffusion models. If you'd like to contribute a resource then please open a new [issue](https://github.com/dgwyer/ml-resources/issues/new) or submit a [PR](https://github.com/dgwyer/ml-resources/pulls).
+This is a comprehensive list of machine learning and deep learning resources. Resources cover the theory and implementation of LLM and image diffusion models. If you'd like to contribute a resource then please open a new [issue](https://github.com/dgwyer/ml-resources/issues/new) or submit a [PR](https://github.com/dgwyer/ml-resources/pulls).
 
 ## Work In Progress
 This is a very new list of ML resources so the structure may change around while we figure out the best way to organize the resources. By all means [let me know](https://github.com/dgwyer/ml-resources/issues/new) what you think and how it can be improved!
@@ -92,10 +92,14 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 ## Books
 
+There are many excellent books available for machine learning and deep learning. Here are a few that I've come acrsoos that are particularly useful. Some of these have free online versions available in PDF or HTML format, and links to these where available are added after the book title.
+
 - [Deep Learning (Goodfellow, Bengio, Courville)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) [[HTML](https://www.deeplearningbook.org/)]
+- [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)]
 - [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/) [[PDF](https://mml-book.github.io/book/mml-book.pdf)]
   - [Official book website](https://mml-book.github.io/external.html)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (set of three books)
+- [Probability and Statistics - The Science of Uncertainty 2e](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/) [[PDF]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) [[Solutions manual]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/EvansRosenthalsolutions.pdf)
 
 ## Blogs
 
@@ -109,8 +113,11 @@ A collection of blogs and posts that post about various ML topics.
 - [Paperspace](https://blog.paperspace.com/)
 - [Radek Osmulski](https://radekosmulski.medium.com/)
   - [A practitioner's guide to PyTorch](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
-- [reddit Stable Diffusion](https://old.reddit.com/r/StableDiffusion/)
-  - [Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)
+- [reddit](https://www.reddit.com/)
+  - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+  - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
+  - [(old) reddit Stable Diffusion](https://old.reddit.com/r/StableDiffusion/)
+    - [Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)
 - [Salman Naqvi](https://forbo7.github.io/forblog/)
 - [Sander Dieleman](https://sander.ai/posts/)
   - [Perspectives on diffusion](https://sander.ai/2023/07/20/perspectives.html)
