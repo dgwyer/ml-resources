@@ -11,12 +11,16 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 ### Websites
 
 - [arXiv](https://arxiv.org/)
+  - [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
+  - [Machine Learning](https://arxiv.org/list/stat.ML/recent)
+
 
 ### Papers
 
-A collection of some of the seminal papers on machine learning.
+A collection of some of the seminal papers on machine learning, and deep learning.
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
 ## Videos
@@ -103,7 +107,7 @@ There are many excellent books available for machine learning and deep learning.
 
 ## Blogs
 
-A collection of blogs and posts that post about various ML topics.
+A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
 - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
 - [Jay Alammar](https://jalammar.github.io/)
@@ -135,6 +139,12 @@ Some interesting and useful individual blog posts.
 - [The ELBO in Variational Inference](https://gregorygundersen.com/blog/2021/04/16/variational-inference/)
 - [Step by Step visual introduction to Diffusion Models](https://erdem.pl/2023/11/step-by-step-visual-introduction-to-diffusion-models)
 - [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
+## Student Repos
+
+This is a collection of GitHub repositories of students of the Fasti.ai course (parts 1 & 2).
+
+- :new:[math-fastai](https://github.com/total-expectation/math-fastai) - This repository includes some really nice probability notebooks.
 
 ## Discord Channels
 
