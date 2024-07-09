@@ -144,7 +144,7 @@ Some interesting and useful individual blog posts.
 
 This is a collection of GitHub repositories of students of the Fasti.ai course (parts 1 & 2).
 
-- :triangular_flag_on_post:[math-fastai](https://github.com/total-expectation/math-fastai) - This repository includes some really nice probability notebooks.
+- [math-fastai](https://github.com/total-expectation/math-fastai) - This repository includes some really nice probability notebooks.
 
 ## Discord Channels
 
