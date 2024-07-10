@@ -19,9 +19,13 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 
 A collection of some of the seminal papers on machine learning, and deep learning.
 
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) [[PDF](https://arxiv.org/pdf/1706.03762)]
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v11) [[PDF](https://arxiv.org/pdf/1312.6114v11)]
+- [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) [[PDF](https://arxiv.org/pdf/2207.12598)]
+- [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) [[PDF](https://arxiv.org/pdf/1502.01852)]
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) - [[PDF](https://arxiv.org/pdf/2006.11239)]
+- [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
+- [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) [[PDF](https://arxiv.org/pdf/2107.00630)]
 
 ## Videos
 
@@ -148,13 +152,16 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 
 ## Discord Channels
 
-Fastai
-Stable Diffusion
+- Fastai
+- Hugging Face
+- Stable Diffusion
 
 ## Software and Tools
 
 - [Fast.ai](https://docs.fast.ai/)
-- Answer.ai
+- [Answer.ai](https://www.answer.ai/)
+  - [AnswerDotAI (GitHub)](https://github.com/orgs/AnswerDotAI/repositories)
+    - [claudette](https://github.com/AnswerDotAI/claudette)
 - [PyTorch](https://pytorch.org/)
   - [Tutorials](https://pytorch.org/tutorials/)
 - [Hugging Face](https://huggingface.co/)
@@ -163,6 +170,8 @@ Stable Diffusion
 - Claudette (Answer.ai)
 - Jupyter
 - Zotero
+- Gradio
+- Streamlit
 - Cursor
 - LightningAI
 
@@ -183,7 +192,6 @@ Machine learning on Twitter is very active! Here are some of the people you shou
 
 ## Unsorted
 
-https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM
 
 https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb
 https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_02_model.ipynb
