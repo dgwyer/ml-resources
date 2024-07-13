@@ -213,49 +213,48 @@ Tanishq
 
 ## Unsorted
 
-https://www.tonyduan.com/diffusion/index.html
-https://yang-song.net/blog/2021/score/
-https://sander.ai/2023/07/20/perspectives.html
-https://sander.ai/2023/08/28/geometry.html
+## Diffusion Models and Generative AI
 
-https://huggingface.co/learn/diffusion-course/en/unit0/1
+**Comprehensive Tutorials and Courses**
+- [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
+- [Generative Modeling by Estimating Gradients](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
+- [Hugging Face Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Comprehensive course on diffusion models from Hugging Face.
 
-https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/
+**Additional Resources**
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Curated list of generative AI resources, courses, and materials.
+- [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
 
-https://d2l.ai/index.html
+## Deep Learning and Machine Learning
 
-https://www.google.com/search?q=hugging+face+diffusion+models+course&oq=hugging+face+diffusion+models+c
+**Courses and Textbooks**
+- [Dive into Deep Learning](https://d2l.ai/index.html) - Interactive deep learning textbook with code, math, and discussions.
+- [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/) - MIT course on deep learning, including a video on deep generative modeling.
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
 
-Nice overview of transformers: https://www.youtube.com/watch?v=iqmjzecbJHE
+**Specific Topics**
+- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
+- [Variational Autoencoders Explained](https://www.jeremyjordan.me/variational-autoencoders/) - Detailed explanation of VAEs with intuitive breakdowns.
+- [Gaussian Processes Introduction](https://d2l.ai/chapter_gaussian-processes/gp-intro.html) - Introduction to Gaussian processes from the D2L book.
 
-https://jalammar.github.io/illustrated-transformer/
+## Advanced Topics and Perspectives
 
-There are review sessions for Python, PyTorch, and Hugging Face Transformers included in this course.
-https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+- [Perspectives on Diffusion Models](https://sander.ai/2023/07/20/perspectives.html) - Insights on diffusion models.
+- [Geometry of Diffusion Models](https://sander.ai/2023/08/28/geometry.html) - Exploration of the geometric aspects of diffusion models.
+- [Sander Dieleman's Blog](https://sander.ai/posts/) - Collection of posts on various advanced ML topics.
 
-https://sander.ai/posts/
+## Video Resources
 
-Generative resources, courses etc. https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file&utm_source=substack&utm_medium=email#book-list-of-free-genai-courses
+- [Transformer Overview](https://www.youtube.com/watch?v=iqmjzecbJHE) - Comprehensive overview of transformer architectures.
+- [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford course on transformers with review sessions on Python, PyTorch, and Hugging Face.
+- [KL Divergence Explanation](https://www.youtube.com/watch?v=NPGkSvCJBzc) - Intuitive breakdown of the KL divergence equation.
 
-The video on deep generative modelling is great for VAE math. http://introtodeeplearning.com/
+## Practical ML and AI
 
-https://www.jeremyjordan.me/variational-autoencoders/
+- [ML Ops Resources](https://huyenchip.com/mlops/) - Collection of resources for machine learning operations.
+- [Multi-AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Course on building multi-agent AI systems.
 
-Really nice intuitive breakdown of the KL divergence equation. Plus there is a link to a GH repo containing the code for an interactive plot showing KL divergence.
+## Additional Resources
 
-https://www.youtube.com/watch?v=NPGkSvCJBzc
-
-UNet diffusion model in pure CUDA: https://github.com/clu0/unet.cu
-
-https://d2l.ai/chapter_gaussian-processes/gp-intro.html
-https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion
-https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf
-http://neuralnetworksanddeeplearning.com/index.html recommended by Jeremy
-ML Ops resources: https://huyenchip.com/mlops/
-Agents course: https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
-
-Some useful insights to the forward diffusion probability equation for q: https://chatgpt.com/c/2a732409-6f97-450c-8996-5a05d64ef333
-
-https://x.com/HamelHusain/status/1798353336145674483
-
-Add SD3 paper and stability blog.
+- [Reddit Thread on Advanced Courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) - Discussion on advanced machine learning courses.
+- [Stable Diffusion Implementation](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion) - Implementation of Stable Diffusion from scratch.
+- [VAE Slides](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf) - Lecture slides on Variational Autoencoders.
