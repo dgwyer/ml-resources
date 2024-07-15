@@ -20,6 +20,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 A collection of some of the seminal papers on machine learning, and deep learning.
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) [[PDF](https://arxiv.org/pdf/1706.03762)]
+  - [Paper walkthrough video](https://www.youtube.com/watch?v=iqmjzecbJHE)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v11) [[PDF](https://arxiv.org/pdf/1312.6114v11)]
 - [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) [[PDF](https://arxiv.org/pdf/2207.12598)]
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) [[PDF](https://arxiv.org/pdf/1502.01852)]
@@ -59,6 +60,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [CS109 Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/)
     - [Video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
     - [Course reader](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
+  - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford course on transformers with review sessions on Python, PyTorch, and Hugging Face.
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 - [StatQuest](https://www.youtube.com/@statquest)
 - [TWIML Community](https://www.youtube.com/@TWIMLCommunity/featured)
@@ -85,7 +87,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Diffusion and Score-Based Generative Models](https://www.youtube.com/watch?v=wMmqCMwuM2Q) (Yang Song)
 - [Stable Diffusion Explained w/ Sai Kumar](https://www.youtube.com/watch?v=V3zBHGB0LWs)
 - [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI)
-- [Kullback–Leibler divergence (KL divergence) intuitions](https://www.youtube.com/watch?v=NPGkSvCJBzc)
+- [Kullback–Leibler divergence (KL divergence) intuitions](https://www.youtube.com/watch?v=NPGkSvCJBzc) - Intuitive breakdown of the KL divergence equation.
+
 - [MIT 6.S191: Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [The Reparameterization Trick](https://youtu.be/vy8q-WnHa9A)
  
@@ -98,22 +101,28 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Fast.ai](https://www.fast.ai/)
   - [Deep Learning from the Foundations](https://course19.fast.ai/index.html) (2019)
   - [Practical Deep Learning for Coders](https://course.fast.ai/) (2022)
-- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
-  - [Unit 1 walkthrough (with Johno)](https://www.youtube.com/watch?v=09o5cv6u76c)
-  - [Unit 2 walkthrough (with Johno)](https://www.youtube.com/watch?v=mY20iKOQ2zw)
+- [Hugging Face Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Comprehensive course on diffusion models from Hugging Face.
+  - [GitHub Repository](https://github.com/huggingface/diffusion-models-class)
+    - [Unit 1 walkthrough (with Johno)](https://www.youtube.com/watch?v=09o5cv6u76c)
+    - [Unit 2 walkthrough (with Johno)](https://www.youtube.com/watch?v=mY20iKOQ2zw)
+- [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/) - MIT course on deep learning, including a video on deep generative modeling.
+  - [Video playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [Reddit Thread on Advanced Courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) - Discussion on advanced machine learning courses.
+- [Stable Diffusion Implementation](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion) - Implementation of Stable Diffusion from scratch.
 
 ## Books
 
-There are many excellent books available for machine learning and deep learning. Here are a few that I've come acrsoos that are particularly useful. Some of these have free online versions available in PDF or HTML format, and links to these where available are added after the book title.
+There are many excellent textbooks available for machine learning and deep learning. Here are a few that I've come acrsoos that are particularly useful. Some of these have free online versions available in PDF or HTML format, and links to these where available are added after the book title.
 
 - [Deep Learning (Goodfellow, Bengio, Courville)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) [[HTML](https://www.deeplearningbook.org/)]
 - [Deep Learning, A Visual Approach (Glassner)](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)
   - [GitHub repository for the book containing figures, errata, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
-- [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)]
+- [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)] - Interactive deep learning textbook with code, math, and discussions.
 - [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/) [[PDF](https://mml-book.github.io/book/mml-book.pdf)]
   - [Official book website](https://mml-book.github.io/external.html)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (set of three books)
 - [Probability and Statistics - The Science of Uncertainty 2e](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/) [[PDF]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) [[Solutions manual]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/EvansRosenthalsolutions.pdf)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) [[PDF](https://github.com/udlbook/udlbook/releases/download/v4.0.2/UnderstandingDeepLearning_07_02_24_C.pdf)]
@@ -125,7 +134,10 @@ There are many excellent books available for machine learning and deep learning.
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
 - [Jay Alammar](https://jalammar.github.io/)
+  - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
   - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+- [Jeremy Jordan](https://www.jeremyjordan.me/data-science/)
+  - [Variational Autoencoders Explained](https://www.jeremyjordan.me/variational-autoencoders/) - Detailed explanation of VAEs with intuitive breakdowns.
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Paperspace](https://blog.paperspace.com/)
@@ -137,12 +149,26 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [(old) reddit Stable Diffusion](https://old.reddit.com/r/StableDiffusion/)
     - [Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion](https://old.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)
 - [Salman Naqvi](https://forbo7.github.io/forblog/)
-- [Sander Dieleman](https://sander.ai/posts/)
-  - [Perspectives on diffusion](https://sander.ai/2023/07/20/perspectives.html)
+- [Sander Dieleman](https://sander.ai/posts/) - Collection of posts on various advanced ML topics.
+  - [Perspectives on diffusion](https://sander.ai/2023/07/20/perspectives.html) - Insights on diffusion models.
   - [Diffusion models are autoencoders](https://sander.ai/2022/01/31/diffusion.html)
+  - [Geometry of Diffusion Models](https://sander.ai/2023/08/28/geometry.html) - Exploration of the geometric aspects of diffusion models.
+
 - [Scratchapixel - Welcome to Computer Graphics](https://www.scratchapixel.com/index.html) (general computer graphics programming)
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
+
+## Blog Posts
+
+Some interesting and useful individual blog posts.
+
+- [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
+- [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
+- [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+- [The ELBO in Variational Inference](https://gregorygundersen.com/blog/2021/04/16/variational-inference/)
+- [Step by Step visual introduction to Diffusion Models](https://erdem.pl/2023/11/step-by-step-visual-introduction-to-diffusion-models)
+- [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 ## GitHub Repositories
 
@@ -152,18 +178,7 @@ Some tutorials and other resources located on GitHub.
   - [Diffusion probabilistic models - Score matching](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
   - [Diffusion probabilistic models - Introduction](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_02_model.ipynb)
 
-### Blog Posts
-
-Some interesting and useful individual blog posts.
-
-- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
-- [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
-- [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
-- [The ELBO in Variational Inference](https://gregorygundersen.com/blog/2021/04/16/variational-inference/)
-- [Step by Step visual introduction to Diffusion Models](https://erdem.pl/2023/11/step-by-step-visual-introduction-to-diffusion-models)
-- [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
-
-## Student Repos
+### Student Repos
 
 This is a collection of GitHub repositories of students of the Fasti.ai course (parts 1 & 2).
 
@@ -200,62 +215,22 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 - Paperspace
 - LightningAI
 
-## ML on Twitter
+## Twitter
 
-Machine learning on Twitter is very active! Here are some of the people you should be following.
+Machine learning on Twitter is very active. Here are some of the people you should be following!
 
-Jeremy
-Tanishq
+- [Tanishq Abraham - @iScienceLuvr](https://x.com/iScienceLuvr)
+- [Jeremy Howard - @jeremyphoward](https://x.com/jeremyphoward)
+- [Jonathan Whitaker - @johnowhitaker](https://x.com/johnowhitaker)
 
 ## Interviews
 
 - [Prof. Chris Bishop's NEW Deep Learning Textbook!](https://youtu.be/kuvFoXzTK3E)
 - [This is why Deep Learning is really weird (Prof. Simon Prince)](https://youtu.be/sJXn4Cl4oww)
 
-## Unsorted
-
-## Diffusion Models and Generative AI
-
-**Comprehensive Tutorials and Courses**
-- [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
-- [Generative Modeling by Estimating Gradients](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
-- [Hugging Face Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Comprehensive course on diffusion models from Hugging Face.
-
-**Additional Resources**
-- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Curated list of generative AI resources, courses, and materials.
-- [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
-
-## Deep Learning and Machine Learning
-
-**Courses and Textbooks**
-- [Dive into Deep Learning](https://d2l.ai/index.html) - Interactive deep learning textbook with code, math, and discussions.
-- [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/) - MIT course on deep learning, including a video on deep generative modeling.
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
-
-**Specific Topics**
-- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
-- [Variational Autoencoders Explained](https://www.jeremyjordan.me/variational-autoencoders/) - Detailed explanation of VAEs with intuitive breakdowns.
-- [Gaussian Processes Introduction](https://d2l.ai/chapter_gaussian-processes/gp-intro.html) - Introduction to Gaussian processes from the D2L book.
-
-## Advanced Topics and Perspectives
-
-- [Perspectives on Diffusion Models](https://sander.ai/2023/07/20/perspectives.html) - Insights on diffusion models.
-- [Geometry of Diffusion Models](https://sander.ai/2023/08/28/geometry.html) - Exploration of the geometric aspects of diffusion models.
-- [Sander Dieleman's Blog](https://sander.ai/posts/) - Collection of posts on various advanced ML topics.
-
-## Video Resources
-
-- [Transformer Overview](https://www.youtube.com/watch?v=iqmjzecbJHE) - Comprehensive overview of transformer architectures.
-- [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford course on transformers with review sessions on Python, PyTorch, and Hugging Face.
-- [KL Divergence Explanation](https://www.youtube.com/watch?v=NPGkSvCJBzc) - Intuitive breakdown of the KL divergence equation.
-
-## Practical ML and AI
-
-- [ML Ops Resources](https://huyenchip.com/mlops/) - Collection of resources for machine learning operations.
-- [Multi-AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Course on building multi-agent AI systems.
-
 ## Additional Resources
-
-- [Reddit Thread on Advanced Courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) - Discussion on advanced machine learning courses.
-- [Stable Diffusion Implementation](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion) - Implementation of Stable Diffusion from scratch.
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Curated list of generative AI resources, courses, and materials.
+- [ML Ops Guide (Chip Huyen)](https://huyenchip.com/mlops/) - Collection of resources for machine learning operations.
+- [Multi-AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Course on building multi-agent AI systems.
+- [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
 - [VAE Slides](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf) - Lecture slides on Variational Autoencoders.
