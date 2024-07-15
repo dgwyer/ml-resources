@@ -77,6 +77,10 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 ### Individual videos.
 
+#### Training & Fine Tuning
+
+- [Napkin Math For Fine Tuning](https://x.com/HamelHusain/status/1798353336145674483) - Video from Johno on fine tuning.
+
 #### Transformers
 
 - [Transformers with Lucas Beyer, Google Brain](https://www.youtube.com/watch?v=EixI6t5oif0)
@@ -91,7 +95,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 - [MIT 6.S191: Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [The Reparameterization Trick](https://youtu.be/vy8q-WnHa9A)
- 
+
 ## Podcasts
 
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
