@@ -157,7 +157,6 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [Perspectives on diffusion](https://sander.ai/2023/07/20/perspectives.html) - Insights on diffusion models.
   - [Diffusion models are autoencoders](https://sander.ai/2022/01/31/diffusion.html)
   - [Geometry of Diffusion Models](https://sander.ai/2023/08/28/geometry.html) - Exploration of the geometric aspects of diffusion models.
-
 - [Scratchapixel - Welcome to Computer Graphics](https://www.scratchapixel.com/index.html) (general computer graphics programming)
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
