@@ -87,6 +87,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI)
 - [Kullback–Leibler divergence (KL divergence) intuitions](https://www.youtube.com/watch?v=NPGkSvCJBzc)
 - [MIT 6.S191: Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [The Reparameterization Trick](https://youtu.be/vy8q-WnHa9A)
  
 ## Podcasts
 
@@ -109,7 +110,7 @@ There are many excellent books available for machine learning and deep learning.
 
 - [Deep Learning (Goodfellow, Bengio, Courville)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) [[HTML](https://www.deeplearningbook.org/)]
 - [Deep Learning, A Visual Approach (Glassner)](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)
-  - [GitHub repository containing figures, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
+  - [GitHub repository for the book containing figures, errata, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 - [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)]
 - [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/) [[PDF](https://mml-book.github.io/book/mml-book.pdf)]
   - [Official book website](https://mml-book.github.io/external.html)
