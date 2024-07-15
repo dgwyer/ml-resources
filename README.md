@@ -10,7 +10,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 
 ### Websites
 
-- [arXiv](https://arxiv.org/)
+- [arXiv](https://arxiv.org/) - Main site
   - [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
   - [Machine Learning](https://arxiv.org/list/stat.ML/recent)
 
@@ -23,8 +23,10 @@ A collection of some of the seminal papers on machine learning, and deep learnin
   - [Paper walkthrough video](https://www.youtube.com/watch?v=iqmjzecbJHE)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v11) [[PDF](https://arxiv.org/pdf/1312.6114v11)]
 - [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) [[PDF](https://arxiv.org/pdf/2207.12598)]
+- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) [[PDF](https://arxiv.org/pdf/1503.03585)]
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) [[PDF](https://arxiv.org/pdf/1502.01852)]
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) - [[PDF](https://arxiv.org/pdf/2006.11239)]
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [[PDF](https://arxiv.org/pdf/2006.11239)]
+- [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) [[PDF](https://arxiv.org/pdf/2010.02502)]
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970) [[PDF](https://arxiv.org/pdf/2208.11970)]
 - [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) [[PDF](https://arxiv.org/pdf/2107.00630)]
@@ -194,15 +196,16 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 
 ## Software and Tools
 
-- [Fast.ai](https://docs.fast.ai/)
 - [Answer.ai](https://www.answer.ai/)
   - [AnswerDotAI (GitHub)](https://github.com/orgs/AnswerDotAI/repositories)
     - [claudette](https://github.com/AnswerDotAI/claudette)
-- [PyTorch](https://pytorch.org/)
-  - [Tutorials](https://pytorch.org/tutorials/)
+- [Fast.ai](https://docs.fast.ai/)
 - [Hugging Face](https://huggingface.co/)
   - [Diffusers tutorials](https://huggingface.co/docs/diffusers/en/index)
   - [General documentation](https://huggingface.co/docs)
+- [nbdev](https://nbdev.fast.ai/)
+- [PyTorch](https://pytorch.org/)
+  - [Tutorials](https://pytorch.org/tutorials/)
 - Claudette (Answer.ai)
 - Jupyter
 - Zotero
@@ -223,6 +226,7 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 
 - [Tanishq Abraham - @iScienceLuvr](https://x.com/iScienceLuvr)
 - [Jeremy Howard - @jeremyphoward](https://x.com/jeremyphoward)
+- [Andrej Karpathy - @karpathy](https://x.com/karpathy)
 - [Jonathan Whitaker - @johnowhitaker](https://x.com/johnowhitaker)
 
 ## Interviews
