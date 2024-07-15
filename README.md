@@ -92,7 +92,6 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Stable Diffusion Explained w/ Sai Kumar](https://www.youtube.com/watch?v=V3zBHGB0LWs)
 - [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI)
 - [Kullback–Leibler divergence (KL divergence) intuitions](https://www.youtube.com/watch?v=NPGkSvCJBzc) - Intuitive breakdown of the KL divergence equation.
-
 - [MIT 6.S191: Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [The Reparameterization Trick](https://youtu.be/vy8q-WnHa9A)
 
