@@ -36,7 +36,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 <br>
 
 ***
-<br>
+
 ## Research Papers
 
 ### Websites
