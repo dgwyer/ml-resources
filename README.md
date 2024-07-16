@@ -28,6 +28,10 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [[PDF](https://arxiv.org/pdf/2006.11239)]
 - [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) [[PDF](https://arxiv.org/pdf/2010.02502)]
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
+- [Stable Diffusion 3 - Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) [[PDF](https://arxiv.org/pdf/2403.03206)]
+  - [YouTube paper walkthrough @hu-po](https://youtu.be/yTXMK2TZOZc)
+  - [YouTube paper walkthrough @gabrielmongaras](https://youtu.be/6XatajQ-ll0)
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528) [[PDF](https://arxiv.org/pdf/1802.01528)]
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970) [[PDF](https://arxiv.org/pdf/2208.11970)]
 - [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) [[PDF](https://arxiv.org/pdf/2107.00630)]
 
@@ -38,6 +42,7 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 Some noteworthy YouTube channels, some of which have sub-links to relevant ML playlists and individual videos. Note: If a sub-link ends with (V) then it is an individual video rather than a playlist.
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+  - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - See the two transformer videos in particular
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
   - [CS231n Convolutional Neural Networks for Visual Recognition (2016)](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
@@ -46,9 +51,13 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [DeepBean](https://www.youtube.com/@deepbean/featured)
   - [Machine Learning](https://www.youtube.com/playlist?list=PLz4ZBoYqCPXrd22wuOquY5ZGzZMk8iT62)
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI/featured)
+- [Gabriel Mongaras](https://www.youtube.com/@gabrielmongaras/featured) - Some nice research paper walkthroughs.
 - [Imperial College London](https://www.youtube.com/@digitallearninghub-imperia3540/featured)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/featured)
   - [Practical Deep Learning Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
+- [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604/featured)
+  - [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI) (V)
+  - [How I Understand Flow Matching](https://youtu.be/DDq_pIfHqLs?list=PLdUcsPPD8lGwyjI_wwYYcaNCK4DsEeusM) (V)
 - [Machine Learning at Berkeley](https://www.youtube.com/@machinelearningatberkeley8868/featured)
   - [CS 198-126: Modern Computer Vision Fall 2022](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation/featured)
@@ -58,6 +67,9 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [MLT Artificial Intelligence](https://www.youtube.com/@MLTOKYO/featured)
 - [Outlier](https://www.youtube.com/@outliier/featured)
   - [Diffusion Models | Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg) (V)
+- [Ritvikmath](https://www.youtube.com/@ritvikmath/featured)
+  - [Data Science Basics](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA)
+  - [Data Science Concepts](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY)
 - [Stanford Online](https://www.youtube.com/@stanfordonline/featured)
   - [CS109 Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/)
     - [Video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
@@ -91,8 +103,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 - [CVPR #18546 - Denoising Diffusion Models: A Generative Learning Big Bang](https://www.youtube.com/watch?v=1d4r19GEVos)
 - [Diffusion and Score-Based Generative Models](https://www.youtube.com/watch?v=wMmqCMwuM2Q) (Yang Song)
+- [Evidence Lower Bound (ELBO) - Clearly Explained!](https://youtu.be/IXsA5Rpp25w)
 - [Stable Diffusion Explained w/ Sai Kumar](https://www.youtube.com/watch?v=V3zBHGB0LWs)
-- [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI)
 - [Kullback–Leibler divergence (KL divergence) intuitions](https://www.youtube.com/watch?v=NPGkSvCJBzc) - Intuitive breakdown of the KL divergence equation.
 - [MIT 6.S191: Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [The Reparameterization Trick](https://youtu.be/vy8q-WnHa9A)
@@ -138,6 +150,7 @@ There are many excellent textbooks available for machine learning and deep learn
 
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
+- [Jake Tae](https://jaketae.github.io/categories/)
 - [Jay Alammar](https://jalammar.github.io/)
   - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
   - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
