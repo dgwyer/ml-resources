@@ -34,7 +34,9 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 	- [Additional Resources](#additional-resources)
 
 <br>
+
 ***
+
 <br>
 
 ## Research Papers
