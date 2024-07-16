@@ -6,6 +6,33 @@ This is a very new list of ML resources so the structure may change around while
 
 As you may have noticed most (or almost all!) resources focus on diffusion models. This is because where most of my focus has been these last few months. But I do want to transition to cover LLMs too. So if you have some good language based resources you'd like to share please [let me know](https://github.com/dgwyer/ml-resources/issues/new).
 
+## Table of Contents
+
+- [Machine Learning Resources](#machine-learning-resources)
+	- [Work In Progress](#work-in-progress)
+	- [Table of Contents](#table-of-contents)
+	- [Research Papers](#research-papers)
+		- [Websites](#websites)
+		- [Papers](#papers)
+	- [YouTube Channels](#youtube-channels)
+		- [Individual videos.](#individual-videos)
+			- [Training \& Fine Tuning](#training--fine-tuning)
+			- [Transformers](#transformers)
+			- [Diffusion](#diffusion)
+	- [Podcasts](#podcasts)
+	- [Courses](#courses)
+	- [Books](#books)
+	- [Blogs](#blogs)
+	- [Blog Posts](#blog-posts)
+	- [GitHub Repositories](#github-repositories)
+		- [Student Repos](#student-repos)
+	- [Discord Channels](#discord-channels)
+	- [Software and Tools](#software-and-tools)
+	- [Cloud Services](#cloud-services)
+	- [Twitter](#twitter)
+	- [Interviews](#interviews)
+	- [Additional Resources](#additional-resources)
+
 ## Research Papers
 
 ### Websites
@@ -13,7 +40,6 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 - [arXiv](https://arxiv.org/) - Main site
   - [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
   - [Machine Learning](https://arxiv.org/list/stat.ML/recent)
-
 
 ### Papers
 
@@ -35,9 +61,7 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970) [[PDF](https://arxiv.org/pdf/2208.11970)]
 - [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) [[PDF](https://arxiv.org/pdf/2107.00630)]
 
-## Videos
-
-## Youtube Channels
+## YouTube Channels
 
 Some noteworthy YouTube channels, some of which have sub-links to relevant ML playlists and individual videos. Note: If a sub-link ends with (V) then it is an individual video rather than a playlist.
 
