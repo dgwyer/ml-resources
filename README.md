@@ -100,6 +100,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
     - [Course reader](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html)
   - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford course on transformers with review sessions on Python, PyTorch, and Hugging Face.
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+    - [Course website](https://deepgenerativemodels.github.io/)
 - [StatQuest](https://www.youtube.com/@statquest)
 - [TWIML Community](https://www.youtube.com/@TWIMLCommunity/featured)
   - [Practical DL for Coders Part 2 Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-HifxCo34zF4pHcyIRPV1Ko)
@@ -136,6 +137,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 ## Podcasts
 
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
+- [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
 
 ## Courses
 
