@@ -54,6 +54,7 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [[PDF](https://arxiv.org/pdf/2006.11239)]
 - [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) [[PDF](https://arxiv.org/pdf/2010.02502)]
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
+- [Lecture Notes in Probabilistic Diffusion Models](https://arxiv.org/abs/2312.10393) [[PDF](https://arxiv.org/pdf/2312.10393)] - Some nice novel images and discussions of diffusion processes
 - [Stable Diffusion 3 - Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) [[PDF](https://arxiv.org/pdf/2403.03206)]
   - [YouTube paper walkthrough @hu-po](https://youtu.be/yTXMK2TZOZc)
   - [YouTube paper walkthrough @gabrielmongaras](https://youtu.be/6XatajQ-ll0)
@@ -101,7 +102,9 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Stanford course on transformers with review sessions on Python, PyTorch, and Hugging Face.
   - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
     - [Course website](https://deepgenerativemodels.github.io/)
-- [StatQuest](https://www.youtube.com/@statquest)
+- [StatQuest](https://www.youtube.com/@statquest) - Highly recommended for probability and statistics.
+  - [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+  - [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [TWIML Community](https://www.youtube.com/@TWIMLCommunity/featured)
   - [Practical DL for Coders Part 2 Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-HifxCo34zF4pHcyIRPV1Ko)
 - [Volodymyr Kuleshov (Cornell Tech)](https://www.youtube.com/@vkuleshov/featured)
