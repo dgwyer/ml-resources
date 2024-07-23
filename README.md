@@ -82,8 +82,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI/featured)
 - [Gabriel Mongaras](https://www.youtube.com/@gabrielmongaras/featured) - Some nice research paper walkthroughs.
 - [Hamel Husain](https://www.youtube.com/@hamelhusain7140/featured)
-  - [Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://www.youtube.com/watch?v=-2ebSQROew4)
-  - [Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://www.youtube.com/watch?v=u2fJ6K8FjS8)
+  - [Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://www.youtube.com/watch?v=-2ebSQROew4) (V)
+  - [Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://www.youtube.com/watch?v=u2fJ6K8FjS8) (V)
 - [Imperial College London](https://www.youtube.com/@digitallearninghub-imperia3540/featured)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/featured)
   - [Practical Deep Learning Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
