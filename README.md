@@ -31,6 +31,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 	- [Cloud Services](#cloud-services)
 	- [Twitter](#twitter)
 	- [Interviews](#interviews)
+	- [Jupyter Notebooks](#jupyter-notebooks)
 	- [Additional Resources](#additional-resources)
 
 ## Research Papers
@@ -54,6 +55,7 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [[PDF](https://arxiv.org/pdf/2006.11239)]
 - [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) [[PDF](https://arxiv.org/pdf/2010.02502)]
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
+  - [(paper walkthrough) DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained)](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
 - [Lecture Notes in Probabilistic Diffusion Models](https://arxiv.org/abs/2312.10393) [[PDF](https://arxiv.org/pdf/2312.10393)] - Some nice novel images and discussions of diffusion processes
 - [Stable Diffusion 3 - Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) [[PDF](https://arxiv.org/pdf/2403.03206)]
   - [YouTube paper walkthrough @hu-po](https://youtu.be/yTXMK2TZOZc)
@@ -66,6 +68,8 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 
 Some noteworthy YouTube channels, some of which have sub-links to relevant ML playlists and individual videos. Note: If a sub-link ends with (V) then it is an individual video rather than a playlist.
 
+- [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak/featured)
+  - [Diffusion models explained. How does OpenAI's GLIDE work?](https://www.youtube.com/watch?v=344w5h24-h8) (V)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
   - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - See the two transformer videos in particular
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
@@ -77,6 +81,9 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Machine Learning](https://www.youtube.com/playlist?list=PLz4ZBoYqCPXrd22wuOquY5ZGzZMk8iT62)
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI/featured)
 - [Gabriel Mongaras](https://www.youtube.com/@gabrielmongaras/featured) - Some nice research paper walkthroughs.
+- [Hamel Husain](https://www.youtube.com/@hamelhusain7140/featured)
+  - [Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://www.youtube.com/watch?v=-2ebSQROew4)
+  - [Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://www.youtube.com/watch?v=u2fJ6K8FjS8)
 - [Imperial College London](https://www.youtube.com/@digitallearninghub-imperia3540/featured)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/featured)
   - [Practical Deep Learning Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
@@ -92,6 +99,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [MLT Artificial Intelligence](https://www.youtube.com/@MLTOKYO/featured)
 - [Outlier](https://www.youtube.com/@outliier/featured)
   - [Diffusion Models | Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg) (V)
+- [Ox educ](https://www.youtube.com/@oxeduc4209/featured)
+  - [Bayesian statistics: a comprehensive course](https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 - [Ritvikmath](https://www.youtube.com/@ritvikmath/featured)
   - [Data Science Basics](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA)
   - [Data Science Concepts](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY)
@@ -116,6 +125,11 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
   - [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
   - [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+- [Umar Jamil](https://www.youtube.com/@umarjamilai/featured)
+  - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://youtu.be/bCz4OMemCcA)
+  - [How diffusion models work - explanation and code!](https://www.youtube.com/watch?v=I1sPXkm2NH4)
+  - [Variational Autoencoder - Model, ELBO, loss function and maths explained easily!](https://youtu.be/iwEzwTTalbg)
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher/featured)
 
 ### Individual videos.
 
@@ -143,7 +157,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
 
 ## Courses
-
+- [Class Central](https://www.classcentral.com/) - Find courses from top Universities and companies.
 - [Fast.ai](https://www.fast.ai/)
   - [Deep Learning from the Foundations](https://course19.fast.ai/index.html) (2019)
   - [Practical Deep Learning for Coders](https://course.fast.ai/) (2022)
@@ -171,6 +185,7 @@ There are many excellent textbooks available for machine learning and deep learn
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (set of three books)
 - [Probability and Statistics - The Science of Uncertainty 2e](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/) [[PDF]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) [[Solutions manual]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/EvansRosenthalsolutions.pdf)
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/) - Free online version available
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) [[PDF](https://github.com/udlbook/udlbook/releases/download/v4.0.2/UnderstandingDeepLearning_07_02_24_C.pdf)]
   - [Jupyter Notebooks from the book](https://github.com/udlbook/udlbook/tree/main/Notebooks)
   - [Selected solutions to Jupyter Notebooks](https://github.com/total-expectation/udlbook/tree/main/Notebooks)
@@ -179,6 +194,9 @@ There are many excellent textbooks available for machine learning and deep learn
 
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
+- [Distill](https://distill.pub/)
+- [Hugging Face](https://huggingface.co/blog)
+  - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
 - [Jake Tae](https://jaketae.github.io/categories/)
 - [Jay Alammar](https://jalammar.github.io/)
   - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
@@ -241,6 +259,7 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 - [Answer.ai](https://www.answer.ai/)
   - [AnswerDotAI (GitHub)](https://github.com/orgs/AnswerDotAI/repositories)
     - [claudette](https://github.com/AnswerDotAI/claudette)
+- [Eureka Labs](https://eurekalabs.ai/)
 - [Fast.ai](https://docs.fast.ai/)
 - [Hugging Face](https://huggingface.co/)
   - [Diffusers tutorials](https://huggingface.co/docs/diffusers/en/index)
@@ -275,6 +294,10 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 
 - [Prof. Chris Bishop's NEW Deep Learning Textbook!](https://youtu.be/kuvFoXzTK3E)
 - [This is why Deep Learning is really weird (Prof. Simon Prince)](https://youtu.be/sJXn4Cl4oww)
+
+## Jupyter Notebooks
+
+- [Diffusion Models from Scratch](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb)
 
 ## Additional Resources
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Curated list of generative AI resources, courses, and materials.
