@@ -20,6 +20,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 		- [Transformers](#transformers)
 		- [Diffusion](#diffusion)
 	- [Podcasts](#podcasts)
+	- [Newsletters](#newsletters)
 	- [Courses](#courses)
 	- [Books](#books)
 	- [Blogs](#blogs)
@@ -114,24 +115,28 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [StatQuest](https://www.youtube.com/@statquest) - Highly recommended for probability and statistics.
   - [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
   - [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Tanishq Abraham](https://www.youtube.com/@tanishqabraham3419/featured)
+  - [Diffusion Models Study Group](https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM) - Study group discussing many popular ML papers.
+- [Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/featured)
+  - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+  - [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+  - [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 - [TWIML Community](https://www.youtube.com/@TWIMLCommunity/featured)
   - [Practical DL for Coders Part 2 Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-HifxCo34zF4pHcyIRPV1Ko)
+- [Umar Jamil](https://www.youtube.com/@umarjamilai/featured)
+  - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://youtu.be/bCz4OMemCcA)
+  - [How diffusion models work - explanation and code!](https://www.youtube.com/watch?v=I1sPXkm2NH4)
+  - [Variational Autoencoder - Model, ELBO, loss function and maths explained easily!](https://youtu.be/iwEzwTTalbg)
 - [Volodymyr Kuleshov (Cornell Tech)](https://www.youtube.com/@vkuleshov/featured)
   - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
   - [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 - [Weights & Biases](https://www.youtube.com/@WeightsBiases/featured)
   - [W&B Fastbook Reading Group](https://www.youtube.com/playlist?list=PLD80i8An1OEHdlrBwa7mKFaHX9tH86b93) (Covers part1 of the fastai course)
-- [Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/featured)
-  - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
-  - [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
-  - [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
-- [Umar Jamil](https://www.youtube.com/@umarjamilai/featured)
-  - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://youtu.be/bCz4OMemCcA)
-  - [How diffusion models work - explanation and code!](https://www.youtube.com/watch?v=I1sPXkm2NH4)
-  - [Variational Autoencoder - Model, ELBO, loss function and maths explained easily!](https://youtu.be/iwEzwTTalbg)
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher/featured)
 
 ## Individual videos.
+
+Collection of one-off individual videos.
 
 ### Training & Fine Tuning
 
@@ -155,6 +160,10 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
 - [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
+
+## Newsletters
+
+- [Data Science Weekly Newsletter](https://datascienceweekly.substack.com/)
 
 ## Courses
 - [Class Central](https://www.classcentral.com/) - Find courses from top Universities and companies.
@@ -186,6 +195,7 @@ There are many excellent textbooks available for machine learning and deep learn
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) (set of three books)
 - [Probability and Statistics - The Science of Uncertainty 2e](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/) [[PDF]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) [[Solutions manual]](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/EvansRosenthalsolutions.pdf)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/) - Free online version available
+- [Rectified Flow](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) [[PDF](https://github.com/udlbook/udlbook/releases/download/v4.0.2/UnderstandingDeepLearning_07_02_24_C.pdf)]
   - [Jupyter Notebooks from the book](https://github.com/udlbook/udlbook/tree/main/Notebooks)
   - [Selected solutions to Jupyter Notebooks](https://github.com/total-expectation/udlbook/tree/main/Notebooks)
@@ -194,6 +204,8 @@ There are many excellent textbooks available for machine learning and deep learn
 
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
+- [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
+- [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Distill](https://distill.pub/)
 - [Hugging Face](https://huggingface.co/blog)
   - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
@@ -205,10 +217,14 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [Variational Autoencoders Explained](https://www.jeremyjordan.me/variational-autoencoders/) - Detailed explanation of VAEs with intuitive breakdowns.
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [MIT News - AI](https://news.mit.edu/topic/artificial-intelligence2)
+- [OpenAI](https://openai.com/news/research/)
 - [Paperspace](https://blog.paperspace.com/)
+- [Probably Overthinking It](https://www.allendowney.com/blog/) - Some really nice posts on general probability topics.
+  - [Density and Likeihood: What's the Difference?](https://www.allendowney.com/blog/2024/07/13/density-and-likelihood/)
 - [Radek Osmulski](https://radekosmulski.medium.com/)
   - [A practitioner's guide to PyTorch](https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040)
-- [reddit](https://www.reddit.com/)
+- [Reddit](https://www.reddit.com/)
   - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
   - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
   - [(old) reddit Stable Diffusion](https://old.reddit.com/r/StableDiffusion/)
@@ -221,11 +237,13 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Scratchapixel - Welcome to Computer Graphics](https://www.scratchapixel.com/index.html) (general computer graphics programming)
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
+- [Stability.ai](https://stability.ai/news)
 
 ## Blog Posts
 
 Some interesting and useful individual blog posts.
 
+- [Diffusion Models - Wiki](https://en.wikipedia.org/wiki/Diffusion_model)
 - [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
 - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
@@ -300,8 +318,16 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 - [Diffusion Models from Scratch](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb)
 
 ## Additional Resources
+
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Curated list of generative AI resources, courses, and materials.
+- [Experiments with Google (deprecated as of 2022)](https://experiments.withgoogle.com/) - Showcasing various AI experiments.
+- [Hacker News Showcase](https://news.ycombinator.com/show) - People showcasing their projects.
+- [Labs.Google](https://labs.google/) - Experiment with the future of AI.
 - [ML Ops Guide (Chip Huyen)](https://huyenchip.com/mlops/) - Collection of resources for machine learning operations.
 - [Multi-AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Course on building multi-agent AI systems.
+- [Papers With Code](https://paperswithcode.com/)
+- [Product Hunt](https://www.producthunt.com/) - Inspiration for some AI products others have launched.
+- [Roboflow object detection in sports](https://github.com/roboflow/sports)
+- [Find Trending Papers](https://trendingpapers.com)
 - [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
 - [VAE Slides](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf) - Lecture slides on Variational Autoencoders.
