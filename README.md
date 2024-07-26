@@ -15,10 +15,10 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 		- [Websites](#websites)
 		- [Papers](#papers)
 	- [YouTube Channels](#youtube-channels)
-		- [Individual videos.](#individual-videos)
-			- [Training \& Fine Tuning](#training--fine-tuning)
-			- [Transformers](#transformers)
-			- [Diffusion](#diffusion)
+	- [Individual videos.](#individual-videos)
+		- [Training \& Fine Tuning](#training--fine-tuning)
+		- [Transformers](#transformers)
+		- [Diffusion](#diffusion)
 	- [Podcasts](#podcasts)
 	- [Courses](#courses)
 	- [Books](#books)
@@ -131,17 +131,17 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Variational Autoencoder - Model, ELBO, loss function and maths explained easily!](https://youtu.be/iwEzwTTalbg)
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher/featured)
 
-### Individual videos.
+## Individual videos.
 
-#### Training & Fine Tuning
+### Training & Fine Tuning
 
 - [Napkin Math For Fine Tuning](https://x.com/HamelHusain/status/1798353336145674483) - Video from Johno on fine tuning.
 
-#### Transformers
+### Transformers
 
 - [Transformers with Lucas Beyer, Google Brain](https://www.youtube.com/watch?v=EixI6t5oif0)
 
-#### Diffusion
+### Diffusion
 
 - [CVPR #18546 - Denoising Diffusion Models: A Generative Learning Big Bang](https://www.youtube.com/watch?v=1d4r19GEVos)
 - [Diffusion and Score-Based Generative Models](https://www.youtube.com/watch?v=wMmqCMwuM2Q) (Yang Song)
