@@ -91,6 +91,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604/featured)
   - [How I Understand Diffusion Models](https://www.youtube.com/watch?v=i2qSxMVeVLI) (V)
   - [How I Understand Flow Matching](https://youtu.be/DDq_pIfHqLs?list=PLdUcsPPD8lGwyjI_wwYYcaNCK4DsEeusM) (V)
+- [Kapil Sachdeva](https://www.youtube.com/@KapilSachdeva/featured)
+  - [Variational Inference & AutoEncoder](https://www.youtube.com/playlist?list=PLivJwLo9VCUK1dXFU9Ig96fjANOMdoL9R) - Concise and detailed.
 - [Machine Learning at Berkeley](https://www.youtube.com/@machinelearningatberkeley8868/featured)
   - [CS 198-126: Modern Computer Vision Fall 2022](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation/featured)
@@ -207,6 +209,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
 - [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Distill](https://distill.pub/)
+  - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
 - [Hugging Face](https://huggingface.co/blog)
   - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
 - [Jake Tae](https://jaketae.github.io/categories/)
@@ -215,6 +218,9 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [Jeremy Jordan](https://www.jeremyjordan.me/data-science/)
   - [Variational Autoencoders Explained](https://www.jeremyjordan.me/variational-autoencoders/) - Detailed explanation of VAEs with intuitive breakdowns.
+- [Kapil Sachdeva](https://ksachdeva17.medium.com/)
+  - [But what is Entropy?](https://towardsdatascience.com/but-what-is-entropy-ae9b2e7c2137)
+  - [But what is a Random Variable?](https://towardsdatascience.com/but-what-is-a-random-variable-4265d84cb7e5)
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [MIT News - AI](https://news.mit.edu/topic/artificial-intelligence2)
