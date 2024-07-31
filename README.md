@@ -107,6 +107,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Ritvikmath](https://www.youtube.com/@ritvikmath/featured)
   - [Data Science Basics](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA)
   - [Data Science Concepts](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY)
+- [Sam Witteveen](https://www.youtube.com/@samwitteveenai/featured)
+  - [RAG - Retrieval Augmented Generation](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
 - [Stanford Online](https://www.youtube.com/@stanfordonline/featured)
   - [CS109 Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/)
     - [Video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
