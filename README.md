@@ -47,6 +47,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 
 A collection of some of the seminal papers on machine learning, and deep learning.
 
+- [A Survey on Generative Diffusion Model](https://arxiv.org/abs/2209.02646) [[PDF](https://arxiv.org/pdf/2209.02646)]
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) [[PDF](https://arxiv.org/pdf/1706.03762)]
   - [Paper walkthrough video](https://www.youtube.com/watch?v=iqmjzecbJHE)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v11) [[PDF](https://arxiv.org/pdf/1312.6114v11)]
@@ -58,6 +59,7 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 - [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) [[PDF](https://arxiv.org/pdf/2102.09672)]
   - [(paper walkthrough) DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained)](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
 - [Lecture Notes in Probabilistic Diffusion Models](https://arxiv.org/abs/2312.10393) [[PDF](https://arxiv.org/pdf/2312.10393)] - Some nice novel images and discussions of diffusion processes
+- [State of the Art on Diffusion Models for Visual Computing](https://arxiv.org/abs/2310.07204) [[PDF](https://arxiv.org/pdf/2310.07204)]
 - [Stable Diffusion 3 - Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) [[PDF](https://arxiv.org/pdf/2403.03206)]
   - [YouTube paper walkthrough @hu-po](https://youtu.be/yTXMK2TZOZc)
   - [YouTube paper walkthrough @gabrielmongaras](https://youtu.be/6XatajQ-ll0)
@@ -214,6 +216,9 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
 - [Hugging Face](https://huggingface.co/blog)
   - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
+- [Isamu Isozaki](https://isamu-website.medium.com/)
+  - [Understanding Diffusion Models Part 1](https://isamu-website.medium.com/understanding-diffusion-models-to-generate-my-favorite-dog-part-1-4be07ec0fc29)
+  - [Understanding Diffusion Models Part 2](https://isamu-website.medium.com/understanding-diffusion-models-to-generate-my-favorite-dog-part-2-4ad76a28c2a4)
 - [Jake Tae](https://jaketae.github.io/categories/)
 - [Jay Alammar](https://jalammar.github.io/)
   - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
