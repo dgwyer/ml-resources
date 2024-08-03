@@ -95,6 +95,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [How I Understand Flow Matching](https://youtu.be/DDq_pIfHqLs?list=PLdUcsPPD8lGwyjI_wwYYcaNCK4DsEeusM) (V)
 - [Kapil Sachdeva](https://www.youtube.com/@KapilSachdeva/featured)
   - [Variational Inference & AutoEncoder](https://www.youtube.com/playlist?list=PLivJwLo9VCUK1dXFU9Ig96fjANOMdoL9R) - Concise and detailed.
+  - [KL Divergence - CLEARLY EXPLAINED!](https://www.youtube.com/watch?v=9_eZHt2qJs4)
 - [Machine Learning at Berkeley](https://www.youtube.com/@machinelearningatberkeley8868/featured)
   - [CS 198-126: Modern Computer Vision Fall 2022](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation/featured)
@@ -261,6 +262,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 
 Some interesting and useful individual blog posts.
 
+- [Classification loss function as comparing 2 vectors](https://dienhoa.github.io/dhblog/posts/classification_loss_func.html) - Intuition of cross-entropy viewed as comparing 2 vectors. 
 - [Diffusion Models - Wiki](https://en.wikipedia.org/wiki/Diffusion_model)
 - [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
