@@ -80,6 +80,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [CUDA Mode](https://www.youtube.com/@CUDAMODE/featured)
 - [Computerphile](https://www.youtube.com/@Computerphile/featured)
+- [DataScienceCastnet](https://www.youtube.com/@datasciencecastnet/featured) - Johno Whitaker
 - [DeepBean](https://www.youtube.com/@deepbean/featured)
   - [Machine Learning](https://www.youtube.com/playlist?list=PLz4ZBoYqCPXrd22wuOquY5ZGzZMk8iT62)
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI/featured)
