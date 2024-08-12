@@ -258,6 +258,9 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
 - [Stability.ai](https://stability.ai/news)
+- [Vishal Bakshi](https://vishalbakshi.github.io/blog/)
+  - [How Does Stable Diffusion Work?](https://vishalbakshi.github.io/blog/posts/2024-08-08-how-does-stable-diffusion-work/)
+  - [Paper Summary: Attention is All You Need](https://vishalbakshi.github.io/blog/posts/2024-03-30-attention-is-all-you-need/)
 
 ## Blog Posts
 
