@@ -9,31 +9,33 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 ## Table of Contents
 
 - [Machine Learning Resources](#machine-learning-resources)
-	- [Work In Progress](#work-in-progress)
-	- [Table of Contents](#table-of-contents)
-	- [Research Papers](#research-papers)
-		- [Websites](#websites)
-		- [Papers](#papers)
-	- [YouTube Channels](#youtube-channels)
-	- [Individual videos.](#individual-videos)
-		- [Training \& Fine Tuning](#training--fine-tuning)
-		- [Transformers](#transformers)
-		- [Diffusion](#diffusion)
-	- [Podcasts](#podcasts)
-	- [Newsletters](#newsletters)
-	- [Courses](#courses)
-	- [Books](#books)
-	- [Blogs](#blogs)
-	- [Blog Posts](#blog-posts)
-	- [GitHub Repositories](#github-repositories)
-		- [Student Repos](#student-repos)
-	- [Discord Channels](#discord-channels)
-	- [Software and Tools](#software-and-tools)
-	- [Cloud Services](#cloud-services)
-	- [Twitter](#twitter)
-	- [Interviews](#interviews)
-	- [Jupyter Notebooks](#jupyter-notebooks)
-	- [Additional Resources](#additional-resources)
+  - [Work In Progress](#work-in-progress)
+  - [Table of Contents](#table-of-contents)
+  - [Research Papers](#research-papers)
+    - [Websites](#websites)
+    - [Papers](#papers)
+  - [YouTube Channels](#youtube-channels)
+  - [Individual videos.](#individual-videos)
+    - [Training \& Fine Tuning](#training--fine-tuning)
+    - [Transformers](#transformers)
+    - [Diffusion](#diffusion)
+  - [Podcasts](#podcasts)
+  - [Newsletters](#newsletters)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Blogs](#blogs)
+  - [Blog Posts](#blog-posts)
+  - [GitHub Repositories](#github-repositories)
+    - [Student Repos](#student-repos)
+    - [Code Snippets and Examples](#code-snippets-and-examples)
+  - [Discord Channels](#discord-channels)
+  - [Software and Tools](#software-and-tools)
+  - [Cloud Services](#cloud-services)
+  - [Datasets](#datasets)
+  - [Twitter](#twitter)
+  - [Interviews](#interviews)
+  - [Jupyter Notebooks](#jupyter-notebooks)
+  - [Additional Resources](#additional-resources)
 
 ## Research Papers
 
@@ -258,6 +260,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
 - [Stability.ai](https://stability.ai/news)
+- [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/archive.html) - 3 blog posts on DDPMs
 - [Vishal Bakshi](https://vishalbakshi.github.io/blog/)
   - [How Does Stable Diffusion Work?](https://vishalbakshi.github.io/blog/posts/2024-08-08-how-does-stable-diffusion-work/)
   - [Paper Summary: Attention is All You Need](https://vishalbakshi.github.io/blog/posts/2024-03-30-attention-is-all-you-need/)
@@ -290,6 +293,10 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 
 - [math-fastai](https://github.com/total-expectation/math-fastai) - This repository includes some really nice probability notebooks.
 
+### Code Snippets and Examples
+
+- [PyTorch VAE Python implementation](https://github.com/pytorch/examples/blob/main/vae/main.py)
+
 ## Discord Channels
 
 - Fastai
@@ -306,22 +313,39 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
 - [Hugging Face](https://huggingface.co/)
   - [Diffusers tutorials](https://huggingface.co/docs/diffusers/en/index)
   - [General documentation](https://huggingface.co/docs)
+  - [Hugging Face Spaces](https://huggingface.co/spaces) - Host and demo models
 - [nbdev](https://nbdev.fast.ai/)
 - [PyTorch](https://pytorch.org/)
   - [Tutorials](https://pytorch.org/tutorials/)
 - Claudette (Answer.ai)
 - Jupyter
 - Zotero
-- Gradio
+- [Gradio](https://www.gradio.app/)
 - Streamlit
 - Cursor
 - LightningAI
+- [Kaggle](https://www.kaggle.com/)
+- [Fal](https://fal.ai/)
 
 ## Cloud Services
+
+Various services for hosting and deploying deep learning models.
 
 - Replicate
 - Paperspace
 - LightningAI
+- [Paperspace](https://www.paperspace.com/)
+- [Lambda](https://lambdalabs.com/)
+- [Jarvislabs](https://jarvislabs.ai/)
+- [Vast.ai](https://vast.ai/)
+- [OctoAI](https://octo.ai)
+- [Anthropic ](https://www.anthropic.com/)
+- [Answer.AI]https://www.answer.ai/
+- [Qwak](https://www.qwak.com/) - Now part of JFrog
+
+## Datasets
+
+- [LAION](https://laion.ai/)
 
 ## Twitter
 
