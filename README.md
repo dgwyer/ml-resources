@@ -340,7 +340,7 @@ Various services for hosting and deploying deep learning models.
 - [Vast.ai](https://vast.ai/)
 - [OctoAI](https://octo.ai)
 - [Anthropic ](https://www.anthropic.com/)
-- [Answer.AI]https://www.answer.ai/
+- [Answer.AI](https://www.answer.ai/)
 - [Qwak](https://www.qwak.com/) - Now part of JFrog
 
 ## Datasets
