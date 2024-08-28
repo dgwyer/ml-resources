@@ -75,6 +75,9 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 - [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak/featured)
   - [Diffusion models explained. How does OpenAI's GLIDE work?](https://www.youtube.com/watch?v=344w5h24-h8) (V)
+- [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov/videos)
+  - [The Key Equation Behind Probability](https://www.youtube.com/watch?v=KHVR587oW8I) - Entropy, Cross-entropy, KL divergence
+  - [The Grandfather Of Generative Models](https://www.youtube.com/watch?v=_bqa_I5hNAo) - Boltzmann Machines
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
   - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - See the two transformer videos in particular
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
@@ -234,6 +237,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [But what is a Random Variable?](https://towardsdatascience.com/but-what-is-a-random-variable-4265d84cb7e5)
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [Matthew N. Bernstein](https://mbernste.github.io/year-archive/) - Some gems here on various diffusion related topics
 - [MIT News - AI](https://news.mit.edu/topic/artificial-intelligence2)
 - [OpenAI](https://openai.com/news/research/)
 - [Paperspace](https://blog.paperspace.com/)
@@ -379,3 +383,4 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 - [Find Trending Papers](https://trendingpapers.com)
 - [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
 - [VAE Slides](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf) - Lecture slides on Variational Autoencoders.
+- [The Bright Side of Mathematics](https://thebrightsideofmathematics.com/)
