@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# Deep Learning & Machine Learning Resources
 This is a comprehensive list of machine learning and deep learning resources. Resources cover the theory and implementation of LLM and image diffusion models. If you'd like to contribute a resource then please open a new [issue](https://github.com/dgwyer/ml-resources/issues/new) or submit a [PR](https://github.com/dgwyer/ml-resources/pulls).
 
 ## Work In Progress
