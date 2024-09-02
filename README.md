@@ -8,7 +8,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
 
 ## Table of Contents
 
-- [Machine Learning Resources](#machine-learning-resources)
+- [Deep Learning \& Machine Learning Resources](#deep-learning--machine-learning-resources)
   - [Work In Progress](#work-in-progress)
   - [Table of Contents](#table-of-contents)
   - [Research Papers](#research-papers)
@@ -23,6 +23,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
   - [Newsletters](#newsletters)
   - [Courses](#courses)
   - [Books](#books)
+    - [Python Books](#python-books)
   - [Blogs](#blogs)
   - [Blog Posts](#blog-posts)
   - [GitHub Repositories](#github-repositories)
@@ -213,6 +214,10 @@ There are many excellent textbooks available for machine learning and deep learn
   - [Jupyter Notebooks from the book](https://github.com/udlbook/udlbook/tree/main/Notebooks)
   - [Selected solutions to Jupyter Notebooks](https://github.com/total-expectation/udlbook/tree/main/Notebooks)
 
+### Python Books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
 ## Blogs
 
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
@@ -384,3 +389,5 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 - [UNet Diffusion Model in CUDA](https://github.com/clu0/unet.cu) - Implementation of a UNet diffusion model in pure CUDA.
 - [VAE Slides](https://deeplearning.cs.cmu.edu/S22/document/slides/lec21.VAE.pdf) - Lecture slides on Variational Autoencoders.
 - [The Bright Side of Mathematics](https://thebrightsideofmathematics.com/)
+- [MLOps guide](https://huyenchip.com/mlops/) - Chip Huyen
+- [ghapi](https://ghapi.fast.ai/) - GitHub API from fast.ai
