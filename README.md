@@ -106,6 +106,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Machine Learning at Berkeley](https://www.youtube.com/@machinelearningatberkeley8868/featured)
   - [CS 198-126: Modern Computer Vision Fall 2022](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation/featured)
+- [MIT HAN Lab](https://www.youtube.com/@MITHANLab/featured)
+  - [EfficientML.ai Course | 2023 Fall | MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw/playlists)
   - [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
   - [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
@@ -174,6 +176,7 @@ Collection of one-off individual videos.
 
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
 - [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
+- [No Priors Podcast](https://www.youtube.com/playlist?list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1)
 
 ## Newsletters
 
@@ -203,6 +206,7 @@ There are many excellent textbooks available for machine learning and deep learn
 - [Deep Learning, A Visual Approach (Glassner)](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)
   - [GitHub repository for the book containing figures, errata, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 - [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)] - Interactive deep learning textbook with code, math, and discussions.
+- [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file) - This is the GitHub repo for the book. A PDF is also available.
 - [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/) [[PDF](https://mml-book.github.io/book/mml-book.pdf)]
   - [Official book website](https://mml-book.github.io/external.html)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
@@ -223,6 +227,9 @@ There are many excellent textbooks available for machine learning and deep learn
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
+- [Cambridge MLG](https://mlg.eng.cam.ac.uk/blog/)
+  - [An introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+- [Chris Levy](https://drchrislevy.github.io/blog.html)
 - [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Distill](https://distill.pub/)
   - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
@@ -231,6 +238,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Isamu Isozaki](https://isamu-website.medium.com/)
   - [Understanding Diffusion Models Part 1](https://isamu-website.medium.com/understanding-diffusion-models-to-generate-my-favorite-dog-part-1-4be07ec0fc29)
   - [Understanding Diffusion Models Part 2](https://isamu-website.medium.com/understanding-diffusion-models-to-generate-my-favorite-dog-part-2-4ad76a28c2a4)
+- [Jack Tol](https://jacktol.net/)
 - [Jake Tae](https://jaketae.github.io/categories/)
 - [Jay Alammar](https://jalammar.github.io/)
   - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual guide to understanding transformer architectures.
