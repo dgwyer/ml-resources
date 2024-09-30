@@ -36,6 +36,7 @@ As you may have noticed most (or almost all!) resources focus on diffusion model
   - [Twitter](#twitter)
   - [Interviews](#interviews)
   - [Jupyter Notebooks](#jupyter-notebooks)
+  - [Other Resource Lists](#other-resource-lists)
   - [Additional Resources](#additional-resources)
 
 ## Research Papers
@@ -84,6 +85,9 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
   - [CS231n Convolutional Neural Networks for Visual Recognition (2016)](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Carnegie Mellon University](https://www.youtube.com/@carnegiemellonuniversityde4339/featured)
+  - [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)
+  - [Video playlist](https://www.youtube.com/playlist?list=PLp-0K3kfddPwpm8SuB262r4owIkS7NNJj)
 - [CUDA Mode](https://www.youtube.com/@CUDAMODE/featured)
 - [Computerphile](https://www.youtube.com/@Computerphile/featured)
 - [DataScienceCastnet](https://www.youtube.com/@datasciencecastnet/featured) - Johno Whitaker
@@ -121,6 +125,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Data Science Concepts](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY)
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai/featured)
   - [RAG - Retrieval Augmented Generation](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
+- [San Diego Machine Learning](https://www.youtube.com/@SanDiegoMachineLearning/featured)
+  - [Understanding Deep Learning](https://www.youtube.com/playlist?list=PLmp4AHm0u1g0AdLp-LPo5lCCf-3ZW_rNq) - Book study group
 - [Stanford Online](https://www.youtube.com/@stanfordonline/featured)
   - [CS109 Introduction to Probability for Computer Scientists](https://web.stanford.edu/class/cs109/)
     - [Video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
@@ -197,6 +203,8 @@ Collection of one-off individual videos.
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [Reddit Thread on Advanced Courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) - Discussion on advanced machine learning courses.
 - [Stable Diffusion Implementation](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion) - Implementation of Stable Diffusion from scratch.
+- [Stanford University](https://www.stanford.edu/)
+  - [CS149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23/)
 
 ## Books
 
@@ -381,6 +389,10 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 ## Jupyter Notebooks
 
 - [Diffusion Models from Scratch](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb)
+
+## Other Resource Lists
+
+- [Awesome-ChatGPT](https://github.com/awesome-gptX/awesome-gpt)
 
 ## Additional Resources
 
