@@ -234,7 +234,7 @@ There are many excellent textbooks available for machine learning and deep learn
 
 A collection of blogs and posts that post about various ML topics. Sub-links are individually selected posts from the related (parent) blog.
 
-- [Alex Kelly](https://alexkelly.net/)
+- [Alex Kelly](https://alexkelly.world)
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
 - [Cambridge MLG](https://mlg.eng.cam.ac.uk/blog/)
   - [An introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
