@@ -196,6 +196,7 @@ Collection of one-off individual videos.
 - [Fast.ai](https://www.fast.ai/)
   - [Deep Learning from the Foundations](https://course19.fast.ai/index.html) (2019)
   - [Practical Deep Learning for Coders](https://course.fast.ai/) (2022)
+- [Geoffrey Hinton’s Coursera lectures](https://www.cs.toronto.edu/%7Ehinton/coursera_lectures.html)
 - [Hugging Face Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Comprehensive course on diffusion models from Hugging Face.
   - [GitHub Repository](https://github.com/huggingface/diffusion-models-class)
     - [Unit 1 walkthrough (with Johno)](https://www.youtube.com/watch?v=09o5cv6u76c)
