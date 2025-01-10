@@ -167,6 +167,7 @@ Collection of one-off individual videos.
 ### Transformers
 
 - [Transformers with Lucas Beyer, Google Brain](https://www.youtube.com/watch?v=EixI6t5oif0)
+- [Visualizing transformers and attention](https://youtu.be/KJtZARuO3JY) (3blue1brown)
 
 ### Diffusion
 
