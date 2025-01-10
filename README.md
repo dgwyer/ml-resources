@@ -257,6 +257,8 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Distill](https://distill.pub/)
   - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
+- [Kemal Erdem](https://erdem.pl/)
+  - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
 - [Hamel Husain](https://hamel.dev/)
 - [Hugging Face](https://huggingface.co/blog)
   - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
