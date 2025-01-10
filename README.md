@@ -194,6 +194,7 @@ Collection of one-off individual videos.
 ## Courses
 - [Class Central](https://www.classcentral.com/) - Find courses from top Universities and companies.
 - [Fast.ai](https://www.fast.ai/)
+  - [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - Rachel Thomas
   - [Deep Learning from the Foundations](https://course19.fast.ai/index.html) (2019)
   - [Practical Deep Learning for Coders](https://course.fast.ai/) (2022)
 - [Geoffrey Hinton’s Coursera lectures](https://www.cs.toronto.edu/%7Ehinton/coursera_lectures.html)
@@ -209,6 +210,7 @@ Collection of one-off individual videos.
 - [Stable Diffusion Implementation](https://github.com/DrugowitschLab/ML-from-scratch-seminar/tree/master/StableDiffusion) - Implementation of Stable Diffusion from scratch.
 - [Stanford University](https://www.stanford.edu/)
   - [CS149 PARALLEL COMPUTING](https://gfxcourses.stanford.edu/cs149/fall23/)
+- [Weights & Biases](https://www.wandb.courses/pages/w-b-courses)
 
 ## Books
 
