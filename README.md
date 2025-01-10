@@ -160,6 +160,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 
 Collection of one-off individual videos.
 
+- [How Could Machines Reach Human-Level Intelligence? - Yann LeCun](https://youtu.be/xL6Y0dpXEwc)
+
 ### Training & Fine Tuning
 
 - [Napkin Math For Fine Tuning](https://x.com/HamelHusain/status/1798353336145674483) - Video from Johno on fine tuning.
@@ -216,6 +218,8 @@ There are many excellent textbooks available for machine learning and deep learn
   - [GitHub repository for the book containing figures, errata, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 - [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)] - Interactive deep learning textbook with code, math, and discussions.
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file) - This is the GitHub repo for the book. A PDF is also available.
+- [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
+  - [Book GitHub repository](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython)
 - [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/) [[PDF](https://mml-book.github.io/book/mml-book.pdf)]
   - [Official book website](https://mml-book.github.io/external.html)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - Free online book on neural networks and deep learning.
@@ -229,7 +233,7 @@ There are many excellent textbooks available for machine learning and deep learn
 
 ### Python Books
 
-- [A Byte of Python](https://python.swaroopch.com/)
+- [A Byte of Python](https://python.swaroopch.com/) [free]
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [free]
 - [Think Python - Allen B. Downey](https://allendowney.github.io/ThinkPython/index.html) [free]
 
