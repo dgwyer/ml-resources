@@ -75,6 +75,8 @@ A collection of some of the seminal papers on machine learning, and deep learnin
 
 Some noteworthy YouTube channels, some of which have sub-links to relevant ML playlists and individual videos. Note: If a sub-link ends with (V) then it is an individual video rather than a playlist.
 
+- [Adian Liusie](https://www.youtube.com/@adianliusie590/videos)
+  - [Intuitively Understanding the KL Divergence](https://youtu.be/SxGYPqCgJWM)
 - [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak/featured)
   - [Diffusion models explained. How does OpenAI's GLIDE work?](https://www.youtube.com/watch?v=344w5h24-h8) (V)
 - [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov/videos)
@@ -357,6 +359,7 @@ This is a collection of GitHub repositories of students of the Fasti.ai course (
   - [General documentation](https://huggingface.co/docs)
   - [Hugging Face Spaces](https://huggingface.co/spaces) - Host and demo models
 - [nbdev](https://nbdev.fast.ai/)
+- [Promptfoo: LLM evals & red teaming](https://github.com/promptfoo/promptfoo)
 - [PyTorch](https://pytorch.org/)
   - [Tutorials](https://pytorch.org/tutorials/)
 - Claudette (Answer.ai)
