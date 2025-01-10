@@ -217,7 +217,9 @@ There are many excellent textbooks available for machine learning and deep learn
 - [Deep Learning (Goodfellow, Bengio, Courville)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) [[HTML](https://www.deeplearningbook.org/)]
 - [Deep Learning, A Visual Approach (Glassner)](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)
   - [GitHub repository for the book containing figures, errata, and notebooks](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
-- [Dive into Deep Learning](https://d2l.ai/index.html) [[HTML](https://d2l.ai/chapter_preface/index.html)] - Interactive deep learning textbook with code, math, and discussions.
+- [Dive into Deep Learning](https://d2l.ai/index.html) - Interactive deep learning textbook with code, math, and discussions.
+  - [[HTML](https://d2l.ai/chapter_preface/index.html)]
+  - [PDF](https://d2l.ai/d2l-en.pdf) 
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file) - This is the GitHub repo for the book. A PDF is also available.
 - [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
   - [Book GitHub repository](https://github.com/krishnonwork/mathematical-methods-in-deep-learning-ipython)
@@ -250,6 +252,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Google DeepMind](https://deepmind.google/discover/blog/)
 - [Distill](https://distill.pub/)
   - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
+- [Hamel Husain](https://hamel.dev/)
 - [Hugging Face](https://huggingface.co/blog)
   - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
 - [Isamu Isozaki](https://isamu-website.medium.com/)
@@ -309,6 +312,7 @@ Some interesting and useful individual blog posts.
 - [Diffusion Models From Scratch](https://www.tonyduan.com/diffusion/index.html) - In-depth tutorial covering derivations and core concepts of diffusion models.
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/) - Detailed blog post on score-based generative models and their advantages.
 - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
+- [Making Sense of PCA & Eigenvectors & Eigenvalues](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues) - StackExchange
 - [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 - [The ELBO in Variational Inference](https://gregorygundersen.com/blog/2021/04/16/variational-inference/)
 - [Step by Step visual introduction to Diffusion Models](https://erdem.pl/2023/11/step-by-step-visual-introduction-to-diffusion-models)
@@ -321,6 +325,7 @@ Some tutorials and other resources located on GitHub.
 - [Denoising diffusion probabilistic models](https://github.com/acids-ircam/diffusion_models/tree/main)
   - [Diffusion probabilistic models - Score matching](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
   - [Diffusion probabilistic models - Introduction](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_02_model.ipynb)
+- [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) - A curated list of tutorials, projects, libraries, videos, papers, books
 
 ### Student Repos
 
