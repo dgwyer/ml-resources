@@ -229,7 +229,9 @@ There are many excellent textbooks available for machine learning and deep learn
 
 ### Python Books
 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [A Byte of Python](https://python.swaroopch.com/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [free]
+- [Think Python - Allen B. Downey](https://allendowney.github.io/ThinkPython/index.html) [free]
 
 ## Blogs
 
