@@ -237,6 +237,7 @@ There are many excellent textbooks available for machine learning and deep learn
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/) [[PDF](https://github.com/udlbook/udlbook/releases/download/v4.0.2/UnderstandingDeepLearning_07_02_24_C.pdf)]
   - [Jupyter Notebooks from the book](https://github.com/udlbook/udlbook/tree/main/Notebooks)
   - [Selected solutions to Jupyter Notebooks](https://github.com/total-expectation/udlbook/tree/main/Notebooks)
+- [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 
 ### Python Books
 
