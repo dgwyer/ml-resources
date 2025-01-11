@@ -307,6 +307,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Stable Diffusion Art](https://stable-diffusion-art.com)
   - [Stable Diffusion Samplers: A Comprehensive Guide](https://stable-diffusion-art.com/samplers/)
 - [Stability.ai](https://stability.ai/news)
+- [Tanishq Abraham](https://www.tanishq.ai/blog/)
 - [The Latent: Code the Maths](https://magic-with-latents.github.io/latent/archive.html) - 3 blog posts on DDPMs
 - [Vishal Bakshi](https://vishalbakshi.github.io/blog/)
   - [How Does Stable Diffusion Work?](https://vishalbakshi.github.io/blog/posts/2024-08-08-how-does-stable-diffusion-work/)
