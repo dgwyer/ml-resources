@@ -185,6 +185,7 @@ Collection of one-off individual videos.
 
 ## Podcasts
 
+- [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC/videos)
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
 - [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
 - [No Priors Podcast](https://www.youtube.com/playlist?list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1)
