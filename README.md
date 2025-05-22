@@ -117,6 +117,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw/playlists)
   - [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
   - [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
+    - [Associated Lecture Resources](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
+  - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/) - Prof. Gilbert Strang
 - [MLT Artificial Intelligence](https://www.youtube.com/@MLTOKYO/featured)
 - [Outlier](https://www.youtube.com/@outliier/featured)
   - [Diffusion Models | Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg) (V)
@@ -141,6 +143,8 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Tanishq Abraham](https://www.youtube.com/@tanishqabraham3419/featured)
   - [Diffusion Models Study Group](https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM) - Study group discussing many popular ML papers.
+- [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths)
+  - [Probability Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qswFOC98oSFc37-0f4S3D4z)
 - [Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/featured)
   - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
   - [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
@@ -185,11 +189,12 @@ Collection of one-off individual videos.
 
 ## Podcasts
 
-- [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC/videos)
 - [Gradient Dissent - A Machine Learning Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
 - [Latent Space](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
+- [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk/videos)
 - [No Priors Podcast](https://www.youtube.com/playlist?list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1)
 - [RAG Masters: A Retrieval Augmented Generation Show](https://www.youtube.com/playlist?list=PLPaLTf0W0L_P8p5GmJFBSwEIr0PinWPpH)
+- [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC/videos)
 - [The TWIML AI Podcast with Sam Charrington](https://www.youtube.com/@twimlai/videos)
 
 ## Newsletters
@@ -197,6 +202,8 @@ Collection of one-off individual videos.
 - [Data Science Weekly Newsletter](https://datascienceweekly.substack.com/)
 
 ## Courses
+Course listed here are free unless stated otherwise.
+
 - [Class Central](https://www.classcentral.com/) - Find courses from top Universities and companies.
 - [Fast.ai](https://www.fast.ai/)
   - [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - Rachel Thomas
@@ -209,6 +216,7 @@ Collection of one-off individual videos.
     - [Unit 2 walkthrough (with Johno)](https://www.youtube.com/watch?v=mY20iKOQ2zw)
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/) - MIT course on deep learning, including a video on deep generative modeling.
   - [Video playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/)
 - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [Reddit Thread on Advanced Courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/) - Discussion on advanced machine learning courses.
@@ -257,9 +265,11 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
 - [Cambridge MLG](https://mlg.eng.cam.ac.uk/blog/)
   - [An introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 - [Chris Levy](https://drchrislevy.github.io/blog.html)
+- [Christopher Olah](https://colah.github.io/) - co-founder [distill.pub](https://distill.pub/)
 - [Google DeepMind](https://deepmind.google/discover/blog/)
-- [Distill](https://distill.pub/)
+- [Distill](https://distill.pub/) - Archive only, no new posts
   - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
+- [Eugene Yan](https://eugeneyan.com/)
 - [Kemal Erdem](https://erdem.pl/)
   - [Introduction to Attention Mechanism](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
 - [Hamel Husain](https://hamel.dev/)
@@ -280,6 +290,7 @@ A collection of blogs and posts that post about various ML topics. Sub-links are
   - [But what is a Random Variable?](https://towardsdatascience.com/but-what-is-a-random-variable-4265d84cb7e5)
 - [Lilian Weng](https://lilianweng.github.io/archives/)
   - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [Marius Vach](https://blog.mariusvach.com/)
 - [Matthew N. Bernstein](https://mbernste.github.io/year-archive/) - Some gems here on various diffusion related topics
 - [MIT News - AI](https://news.mit.edu/topic/artificial-intelligence2)
 - [OpenAI](https://openai.com/news/research/)
@@ -397,6 +408,7 @@ Various services for hosting and deploying deep learning models.
 
 ## Datasets
 
+- [Hugging Face Datasets](https://huggingface.co/docs/datasets/en/index)
 - [LAION](https://laion.ai/)
 
 ## Twitter
@@ -438,3 +450,8 @@ Machine learning on Twitter is very active. Here are some of the people you shou
 - [The Bright Side of Mathematics](https://thebrightsideofmathematics.com/)
 - [MLOps guide](https://huyenchip.com/mlops/) - Chip Huyen
 - [ghapi](https://ghapi.fast.ai/) - GitHub API from fast.ai
+- [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
+- [DeepWiki](https://deepwiki.com/)
+- [WebGPU Puzzles](https://gpupuzzles.answer.ai/)
+- [Tinker With a Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46734&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [ConvnetJS demo: toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
