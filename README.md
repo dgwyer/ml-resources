@@ -159,7 +159,7 @@ Some noteworthy YouTube channels, some of which have sub-links to relevant ML pl
   - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
   - [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 - [Weights & Biases](https://www.youtube.com/@WeightsBiases/featured)
-  - [W&B Fastbook Reading Group](https://www.youtube.com/playlist?list=PLD80i8An1OEHdlrBwa7mKFaHX9tH86b93) (Covers part1 of the fastai course)
+  - [W&B Fastbook Reading Group](https://www.youtube.com/playlist?list=PLD80i8An1OEHdlrBwa7mKFaHX9tH86b93) (Covers part 1 of the fast.ai course)
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher/featured)
 
 ## Individual videos.
