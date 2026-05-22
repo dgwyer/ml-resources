@@ -212,6 +212,7 @@ Course listed here are free unless stated otherwise.
 - [Geoffrey Hinton’s Coursera lectures](https://www.cs.toronto.edu/%7Ehinton/coursera_lectures.html)
 - [Hugging Face Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Comprehensive course on diffusion models from Hugging Face.
   - [GitHub Repository](https://github.com/huggingface/diffusion-models-class)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
     - [Unit 1 walkthrough (with Johno)](https://www.youtube.com/watch?v=09o5cv6u76c)
     - [Unit 2 walkthrough (with Johno)](https://www.youtube.com/watch?v=mY20iKOQ2zw)
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/) - MIT course on deep learning, including a video on deep generative modeling.
