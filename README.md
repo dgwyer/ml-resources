@@ -199,6 +199,7 @@ Collection of one-off individual videos.
 
 ## Newsletters
 
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, with ranked coverage of models, agents, funding, policy, and research.
 - [Data Science Weekly Newsletter](https://datascienceweekly.substack.com/)
 
 ## Courses
